@@ -1,0 +1,89 @@
+  {
+    "AdamiPad-20260331": [
+      {
+        "item": "iPad Pro M5",
+        "ipadOptions": [
+          {
+            "description": "13 WiFi 1TB (Nano-texture)",
+            "price_aud": 3499,
+            "Notes": "16GB memory, M5 (10 core), Space Black finish",
+            "link": "https://www.apple.com/au/xc/product/MDYQ4X/A",
+            "Further_Notes": "Geekbenc 6 results: https://browser.geekbench.com/v6/cpu/17389859, https://browser.geekbench.com/v6/compute/6132540"
+          },
+          {
+            "description": "13 WiFi 512GB (Standard)",
+            "price_aud": 2549,
+            "Notes": "11GB memory, M5 (9 core), Space Black finish",
+            "link": "https://www.apple.com/au/xc/product/MDYL4X/A",
+            "Further_Notes": "Geekbenc 6 results: https://browser.geekbench.com/v6/cpu/17388031, https://browser.geekbench.com/v6/compute/6112347"
+          }
+        ]
+      },
+      {
+        "item": "SSD Storage",
+        "optionNote": "High-speed, durable external storage for iPad",
+        "options": [
+          {
+            "description": "SAMSUNG T7 Shield 2TB",
+            "price_aud": 527,
+            "Notes": "10GBPS, 1GBPS rw, IP65 water/dust resistance, rugged performance",
+            "link": "https://www.amazon.com.au/Portable-Photographers-Creators-MU-PE2T0R-AM/dp/B09VLJ7VBM/ref=sr_1_1?crid=3ODJ8ITV3JZNV&dib=eyJ2IjoiMSJ9.5S83iuQDhD75EA3zYtCE-G7rrM7q0owCngzSWvopZyZzNMDg2KP4KlaxMnh_GgWjn866bIW7h2KJ2n5peOcIXhGHgiX3K0YRkDoBKeiSncEVc8ECroz7E03YNprSXadvIIK3RGBxbiRJ40VTLVRoj9ssTzl7Gl7ShrqTi8kFAaIoe08W7_Gas48_yayvzgb7HQ7GoI9apJG_PrzcirXDjchsdCz-XgJXPg_go1nAvqYG5QozXGQeM6YybT6Q9gsr3VEAgd4rdQfTPCRCsopknBAlSBNIWM5QeM-Yub1LCOo.tN4Y_ueCj0Uq1dJUSeGjb3qM3Doe-KgPLCmvdMImQdA&dib_tag=se&keywords=samsung%2Bt7%2Bshield%2B2tb%2Bssd&qid=1774958670&s=computers&sprefix=amsung%2Bt7%2Bshield%2B2tb%2Bss%2Ccomputers%2C268&sr=1-1&th=1",
+            "Further_Notes": "SAMSUNG T7 Shield 2TB SSD, Blue, MU-PE2T0R/AM, T7 Shield SSD : Amazon.com.au\nSlower on paper than T9 / SanDisk Extreme PRO, but the iPad generally cannot exploit those 20 Gbps USB 3.2 Gen 2x2 headline speeds anyway."
+          }
+        ]
+      },
+      {
+        "item": "Simple Case",
+        "optionNote": "Includes pencil holder; safer than mag-charge cases",
+        "options": [
+          {
+            "description": "Supcase UB Shield",
+            "price_aud": 140,
+            "Notes": "Protective case with pencil holder, compatible with iPad Pro 13 Inch (M5/M4) (2025/2024), Black",
+            "link": "https://supcase.com/collections/ipad-13-cases/products/ub-shield-series-ipad-pro-13-inch-m5-m4-2025-protective-case-with-pencil-holder-black",
+            "Further_Notes": "If not going for Apple Magic Keyboards and Case, get a simple one (not a slow usb one or unsafe mag-charge one)"
+          }
+        ]
+      },
+      {
+        "item": "10 Gbps Hub",
+        "optionNote": "Needed to be able to power + external storage + keyboard and mouse + external displays,10GBps capable (else bottle-neck ssd performance)",
+        "options": [
+          {
+            "item": "10 Gbps Hub",
+            "optionNote": "Needed to be able to power + external storage + keyboard and mouse + external displays,10GBps capable (else bottle-neck ssd performance)",
+            "options": [
+              {
+                "description": "Satechi 4-Port USB-C Hub with Power Delivery",
+                "price_aud": 60,
+                "Notes": "USB-C only hub; simple layout with equal-throughput USB-C ports and power delivery passthrough",
+                "link": "https://satechi.com/products/4-port-usb-c-hub-with-pd",
+                "Further_Notes": "AU$60 plus shipping. Positioned as a more premium third-party brand, commonly sold through retailers like the Apple Store. Good fit if you only need USB-C expansion and do not need HDMI, Ethernet, or mixed legacy ports."
+              },
+              {
+                "description": "CalDigit USB-C Gen2 10Gb/s SOHO Dock",
+                "price_aud": 144.46,
+                "Notes": "10 Gbps dock with more expansion for accessories and displays; supports up to 100W power delivery passthrough",
+                "link": "https://www.amazon.com.au/CalDigit-USB-C-SOHO-Dock-Gbps/dp/B08FDJR8VK/ref=asc_df_B08FDJR8VK?mcid=2b754b331f753eca9d571c15fdc397e8&tag=googleshopdsk-22&linkCode=df0&hvadid=712260569169&hvpos=&hvnetw=g&hvrand=9046113069362371066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071352&hvtargid=pla-1027077694796&hvocijid=9046113069362371066-B08FDJR8VK-&hvexpln=0&gad_source=1&th=1",
+                "Further_Notes": "Best-featured option here if you want one dock to handle storage, peripherals, charging, and external display connectivity. Considerably more expensive than the simpler hub options."
+              },
+              {
+                "description": "Anker 555 USB-C Hub (8-in-1)",
+                "price_aud": 80,
+                "Notes": "8-in-1 USB-C hub with 100W power delivery passthrough and a broader mix of ports than the Satechi",
+                "link": "https://www.amazon.com.au/Anker-PowerExpand-Adapter-Delivery-Ethernet/dp/B087QZVQJX?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3JCEYBC5L8UJ8&th=1",
+                "Further_Notes": "Well-known mainstream accessory brand and materially cheaper than the CalDigit. More versatile than a USB-C-only hub, but still a lower-end choice than CalDigit if dock reliability and display handling are priorities."
+              },
+              {
+                "description": "ACASIS 10Gbps USB-C Hub, Dual Monitor",
+                "price_aud": 59.99,
+                "Notes": "10 Gbps USB-C hub with dual-monitor oriented feature set at a very low price point",
+                "link": "https://www.amazon.com.au/ACASIS-Monitor-Multiport-Transfer-Splitter/dp/B0DF2MXV89/ref=sr_1_17?crid=1YEN31Q8GYYF4&dib=eyJ2IjoiMSJ9.s2UK32i-6g9eIHj-EFzSEbEHD6iwARjxI3HMGTwBLaGP2yJ1yETS1QaxXQvIaIFe73jqPTME5XKuAl9OdViWHmPG-od_YC9qH97A9N4OAqMOaT5hkxVsRo-QCAMjQz_qBLYbDJ2ZyFukoQtfZhnD4ctqvhTSYoQpMBoCTjKhVDwPVgD-z8ytJpOQojm8tue8BbmxZO4Kik7BsQmNAvTSh9MImq6Xfx5PH7wRsXIjijPBGrBHEa4JgqA7ZMNvLok-i3Q9ZZ3jBr46AidDqEMimjJ7FYMAmhKuGRm506v8SWA.rWTRLxFk2ZnngPUccaQutH5Wahj-FGJ5rw3WjpfRwwc&dib_tag=se&keywords=10gbps+hub&qid=1774962620&s=computers&sprefix=10gbps+hub%2Ccomputers%2C208&sr=1-17",
+                "Further_Notes": "Very aggressive pricing for the feature set. Brand is less established and long-term reliability/support is less certain than Satechi, Anker, or CalDigit, so this is the higher-risk budget option."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
