@@ -6,16 +6,16 @@
           {
             "description": "13 WiFi 1TB (Nano-texture)",
             "price_aud": 3499,
-            "Notes": "16GB memory, M5 (10 core), Space Black finish",
+            "Notes": "16GB mem, M5(10 core),1TB storage, nano-texture display",  
             "link": "https://www.apple.com/au/xc/product/MDYQ4X/A",
-            "Further_Notes": "Geekbenc 6 results: https://browser.geekbench.com/v6/cpu/17389859, https://browser.geekbench.com/v6/compute/6132540"
+            "Further_Notes": "Geekbenc 6 results:\n <ul><li>CPU: <a href=\"https://browser.geekbench.com/v6/cpu/17389859\">Geekbenc 6 CPU: 4151, 16665</a></li><li>Compute: <a href=\"https://browser.geekbench.com/v6/compute/6132540\">Geekbenc 6 compute: 75318</a> </li></ul>"
           },
           {
             "description": "13 WiFi 512GB (Standard)",
             "price_aud": 2549,
-            "Notes": "11GB memory, M5 (9 core), Space Black finish",
+            "Notes": "12GB mem, M5(9 core),512GB storage, standard display",
             "link": "https://www.apple.com/au/xc/product/MDYL4X/A",
-            "Further_Notes": "Geekbenc 6 results: https://browser.geekbench.com/v6/cpu/17388031, https://browser.geekbench.com/v6/compute/6112347"
+            "Further_Notes": "Geekbenc 6 results:\n <ul><li>CPU: <a href=\"https://browser.geekbench.com/v6/cpu/17388031\">Geekbenc 6 CPU: 4199, 15992</a></li><li>Compute: <a href=\"https://browser.geekbench.com/v6/compute/6112347\">Geekbenc 6 compute: 75294</a> </li></ul>"
           }
         ]
       },
@@ -62,7 +62,7 @@
               },
               {
                 "description": "CalDigit USB-C Gen2 10Gb/s SOHO Dock",
-                "price_aud": 144.46,
+                "price_aud": 145,
                 "Notes": "10 Gbps dock with more expansion for accessories and displays; supports up to 100W power delivery passthrough",
                 "link": "https://www.amazon.com.au/CalDigit-USB-C-SOHO-Dock-Gbps/dp/B08FDJR8VK/ref=asc_df_B08FDJR8VK?mcid=2b754b331f753eca9d571c15fdc397e8&tag=googleshopdsk-22&linkCode=df0&hvadid=712260569169&hvpos=&hvnetw=g&hvrand=9046113069362371066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071352&hvtargid=pla-1027077694796&hvocijid=9046113069362371066-B08FDJR8VK-&hvexpln=0&gad_source=1&th=1",
                 "Further_Notes": "Best-featured option here if you want one dock to handle storage, peripherals, charging, and external display connectivity. Considerably more expensive than the simpler hub options."
@@ -76,7 +76,7 @@
               },
               {
                 "description": "ACASIS 10Gbps USB-C Hub, Dual Monitor",
-                "price_aud": 59.99,
+                "price_aud": 60,
                 "Notes": "10 Gbps USB-C hub with dual-monitor oriented feature set at a very low price point",
                 "link": "https://www.amazon.com.au/ACASIS-Monitor-Multiport-Transfer-Splitter/dp/B0DF2MXV89/ref=sr_1_17?crid=1YEN31Q8GYYF4&dib=eyJ2IjoiMSJ9.s2UK32i-6g9eIHj-EFzSEbEHD6iwARjxI3HMGTwBLaGP2yJ1yETS1QaxXQvIaIFe73jqPTME5XKuAl9OdViWHmPG-od_YC9qH97A9N4OAqMOaT5hkxVsRo-QCAMjQz_qBLYbDJ2ZyFukoQtfZhnD4ctqvhTSYoQpMBoCTjKhVDwPVgD-z8ytJpOQojm8tue8BbmxZO4Kik7BsQmNAvTSh9MImq6Xfx5PH7wRsXIjijPBGrBHEa4JgqA7ZMNvLok-i3Q9ZZ3jBr46AidDqEMimjJ7FYMAmhKuGRm506v8SWA.rWTRLxFk2ZnngPUccaQutH5Wahj-FGJ5rw3WjpfRwwc&dib_tag=se&keywords=10gbps+hub&qid=1774962620&s=computers&sprefix=10gbps+hub%2Ccomputers%2C208&sr=1-17",
                 "Further_Notes": "Very aggressive pricing for the feature set. Brand is less established and long-term reliability/support is less certain than Satechi, Anker, or CalDigit, so this is the higher-risk budget option."
